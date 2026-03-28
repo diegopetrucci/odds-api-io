@@ -34,6 +34,10 @@ python3 odds-api-io/scripts/odds_api.py search --query "Inter vs Arsenal" --spor
 python3 odds-api-io/scripts/odds_api.py odds --event-id 123456 --bookmakers "Bet365,Unibet"
 ```
 
+## More Skills Like This
+
+Found this skill useful? Browse all my hand-crafted ones in the [AI Agents skills](https://github.com/diegopetrucci/ai-agents-skills) repo.
+
 ## License
 
 MIT
