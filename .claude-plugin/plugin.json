@@ -1,0 +1,5 @@
+{
+  "name": "odds-api-io",
+  "description": "Query Odds-API.io for sports events and betting odds",
+  "version": "1.0.0"
+}
