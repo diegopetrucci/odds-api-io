@@ -14,6 +14,15 @@ When a user wants betting odds from Odds-API.io, this skill:
 
 ## Installation
 
+### As a Claude Code plugin
+
+```shell
+/plugin marketplace add diegopetrucci/ai-agents-skills
+/plugin install odds-api-io@diegopetrucci-claude-plugins
+```
+
+### As a skill
+
 ```bash
 npx skills add https://github.com/diegopetrucci/odds-api-io --skill odds-api-io
 ```
