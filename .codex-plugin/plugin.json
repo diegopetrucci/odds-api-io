@@ -1,0 +1,21 @@
+{
+  "name": "odds-api-io",
+  "version": "1.0.0",
+  "description": "Query Odds-API.io for sports events, bookmakers, and betting odds.",
+  "author": {
+    "name": "Diego Petrucci",
+    "url": "https://github.com/diegopetrucci"
+  },
+  "repository": "https://github.com/diegopetrucci/odds-api-io",
+  "license": "MIT",
+  "keywords": ["sports", "odds", "api", "data"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Odds-API.io",
+    "shortDescription": "Fetch sports odds data",
+    "longDescription": "Search Odds-API.io events, list bookmakers, and fetch betting odds for a selected event.",
+    "developerName": "Diego Petrucci",
+    "category": "Data",
+    "capabilities": ["Read", "Execute"]
+  }
+}
