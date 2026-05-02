@@ -27,6 +27,14 @@ npx skills add https://github.com/diegopetrucci/odds-api-io --skill odds-api-io
 /plugin install odds-api-io@diegopetrucci-claude-plugins
 ```
 
+### As a Codex plugin
+
+```shell
+codex plugin marketplace add diegopetrucci/ai-agents-skills
+```
+
+Restart Codex, then install `odds-api-io` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
+
 ## Usage
 
 Trigger the skill when the user wants Odds-API.io data:
