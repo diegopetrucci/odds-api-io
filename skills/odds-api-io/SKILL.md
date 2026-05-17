@@ -4,7 +4,7 @@ description: Query Odds-API.io for sports events, bookmakers, and betting odds (
 license: MIT
 metadata:
   author: Diego Petrucci
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Odds-API.io
