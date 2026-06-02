@@ -1,6 +1,6 @@
 {
   "name": "odds-api-io",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Query Odds-API.io for sports events, bookmakers, and betting odds.",
   "author": {
     "name": "Diego Petrucci",
@@ -16,6 +16,9 @@
     "longDescription": "Search Odds-API.io events, list bookmakers, and fetch betting odds for a selected event.",
     "developerName": "Diego Petrucci",
     "category": "Data",
-    "capabilities": ["Read", "Execute"]
+    "capabilities": ["Read", "Execute"],
+    "defaultPrompt": [
+      "Look up odds for this matchup with Odds-API.io."
+    ]
   }
 }
